@@ -1,0 +1,4 @@
+placeapi = AIzaSyDWC_jX8Q3_SugQHHyellotsBUGPgDWRiM
+
+
+Geolocation API = AIzaSyDWC_jX8Q3_SugQHHyellotsBUGPgDWRiM
